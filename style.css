@@ -1,13 +1,11 @@
 * {
   box-sizing: border-box;
 }
-
 body {
   background-color: #dddd;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
 }
-
 h2 {
   color: rgb(179, 131, 226);
   font-size: 8rem;
@@ -35,7 +33,6 @@ form {
   background-color: white;
   list-style: none;
 }
-
 .todos li {
   font-size: 1rem;
   padding: 1rem 2rem;
